@@ -21,5 +21,3 @@ def selectionSort(arr):
 print(selectionSort([-1,2, -7,3, -12, 0, -99]))
 print(selectionSort([7,5,4]))
 print(selectionSort([1000, -400, 0, 22]))
-
-

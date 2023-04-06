@@ -1,6 +1,5 @@
 print("Binary search:")
 
-
 def binary_search(arr, item):
     low, high = 0, len(arr) - 1
     while low <= high:
