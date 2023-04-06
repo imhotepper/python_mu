@@ -1,2 +1,4 @@
-# python_mu
-grokking maybe?
+# algoplay
+
+- Binary search
+- Selection sort
